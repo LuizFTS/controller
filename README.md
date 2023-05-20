@@ -17,6 +17,8 @@
     <li>Call to Action: Encourages users to take a specific action, such as signing up or getting in touch.</li>
     <li>Footer: Contains additional information about the business and links to social media profiles.</li>
   </ul>
+   <h2>Check out the webpage</h2>
+    <p>You can check out the webpage by clicking on this <a target="_blank" rel="noreferrer" href="https://64693f3faf410b6cef767d06--flourishing-mooncake-a0243a.netlify.app/">link</a>.
   <h2>How to Run the Project</h2>
   <ol>
     <li>Make sure you have Node.js installed on your computer.</li>
